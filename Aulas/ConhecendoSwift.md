@@ -74,7 +74,7 @@ O `: String` é a declaração do tipo da variável. se tentarmo inserir um núm
 ```error
 cannot convert value of type 'Int' to specified type 'String'
 let username: String = 10
-                                     ^~
+                       ^~
 ```
 Podemos converter tipos, por exemplo conveter string para inteiro
 ```swift
@@ -108,19 +108,19 @@ Swift fornece os seguintes operadores:
 
 
 # Operadores de Comparação
-![Tabela de Comparação](./Assets//TabelaDeOperadoresDeCompara%C3%A7%C3%A3o.png)
+![Tabela de Comparação](https://github.com/Tdroid20/Aprendendo-Swift/blob/stable/Assets/TabelaDeOperadoresDeCompara%C3%A7%C3%A3o.png)
 
 # Operadores Aritméticos
-![Tabela de aritméticos](./Assets/TabelaDeOperadoresAritmeticos.png)
+![Tabela de aritméticos](https://github.com/Tdroid20/Aprendendo-Swift/blob/stable/Assets/TabelaDeOperadoresAritmeticos.png)
 
 # Operadores lógicos
-![Tabela De OP Lógicos](./Assets/TabelaDeOperadoresLogicos.png)
+![Tabela De OP Lógicos](https://github.com/Tdroid20/Aprendendo-Swift/blob/stable/Assets/TabelaDeOperadoresLogicos.png)
 
 # Operadores bit a bit
 
 Operadores bit a bit bits usados ​​para operar, ~, &, |, ^ foram negados, eo bit, ou por pouco e, bit a bit operação XOR com os seguintes exemplos de mesa:
 
-![Tabela Bit a Bit](./Assets/TabelaDeOperadoresBitABit.png)
+![Tabela Bit a Bit](https://github.com/Tdroid20/Aprendendo-Swift/blob/stable/Assets/TabelaDeOperadoresBitABit.png)
 
 Se A = 60; e B = 13; duas variáveis ​​correspondente ao binário é:
 
@@ -131,7 +131,7 @@ B = 0000 1101
 ```
 
 # Operadores de atribuição
-![Tabela de atribuição](./Assets/TabelaDeOperadoresDeAtribuicao.png)
+![Tabela de atribuição](https://github.com/Tdroid20/Aprendendo-Swift/blob/stable/Assets/TabelaDeOperadoresDeAtribuicao.png)
 
 ### Fonte do material de operadores: [w3big](http://www.w3big.com/pt/swift/swift-operators.html#gsc.tab=0)
 para mais informações de operadores em Swift. recomendo assistir o [video](https://youtu.be/VSuan4RXBQA?t=21) do [Rodrigo Guimaraes](https://www.youtube.com/channel/UCNghEgS-PkKMDbZfiwhvYpA).
@@ -180,7 +180,7 @@ nesse exemplo ele retornará `Ele é o autor desse material`. você pode testar 
 # Arrays
 Por questão de tempo, irei ser breve pois esse materia está sendo escrito de madrugada.
 <p align="center">
-<img src="./Assets/DateAndHour.png" alt="Horario da escrita do material 00:20">
+<img src="https://github.com/Tdroid20/Aprendendo-Swift/blob/stable/Assets/DateAndHour.png" alt="Horario da escrita do material 00:20">
 </p>
 
 Em programação de computadores, um arranjo/array é uma estrutura de dados que armazena uma coleção de elementos de tal forma que cada um dos elementos possa ser identificado por, pelo menos, um índice ou uma chave. Essa estrutura de dados também é conhecida como variável indexada, vetor e matriz. 
