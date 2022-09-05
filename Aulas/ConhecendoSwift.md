@@ -274,7 +274,7 @@ Espero que esse post tenha ajudado alguém, foi bem curto, porem tem um conteúd
 
 Muito bem, esse é o fim do primeiro material de Swift. Vejo vocês em breve.
 
-# <center>Creditos</center>
+# <p align="center">Creditos</p>
 
 ## Autor: Tdroid
 [instagram](https://www.instagram.com/tdroid2.0/)
