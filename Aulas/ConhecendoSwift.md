@@ -1,7 +1,5 @@
-# <center>Olá!👋</center>
+# <p align="center">Olá!👋</p>
 Essa é uma Doc de como funciona a linguagen da apple para desenvolver para IOS usando Swift.
-#
-<center><img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" /></center>
 
 # Linguagem Swift: história do iOS 
 
@@ -181,9 +179,9 @@ nesse exemplo ele retornará `Ele é o autor desse material`. você pode testar 
 
 # Arrays
 Por questão de tempo, irei ser breve pois esse materia está sendo escrito de madrugada.
-<center>
+<p align="center">
 <img src="./Assets/DateAndHour.png" alt="Horario da escrita do material 00:20">
-</center>
+</p>
 
 Em programação de computadores, um arranjo/array é uma estrutura de dados que armazena uma coleção de elementos de tal forma que cada um dos elementos possa ser identificado por, pelo menos, um índice ou uma chave. Essa estrutura de dados também é conhecida como variável indexada, vetor e matriz. 
 
